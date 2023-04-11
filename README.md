@@ -1,5 +1,9 @@
 # GPT 3.5 Discord Chat Bot
 
+## Requirements
+- A Discord Bot with its Token.
+- Open Ai API Key [Get Key from here](https://beta.openai.com)
+
 ### How to use this bot
 
 1. Clone the Github repo in your current directory
